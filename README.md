@@ -15,11 +15,13 @@ This project demonstrates full-stack CRUD (Create, Read, Update, Delete) functio
 
 ## 📦 Setup Instructions
 
-### 1️⃣ Clone the repository
+###
 ```bash
+1-Clone the repository
 git clone 
 cd Employee-Management-System
-Run the Frontend (React)
+
+2-Run the Frontend (React)
 cd client
 npm install
 npm start
@@ -28,7 +30,7 @@ npm start
 This will start your React app at:
 http://localhost:3000
 
-Run the Backend (Node + Express)
+3-Run the Backend (Node + Express)
 cd server
 npm install
 nodemon index.js
