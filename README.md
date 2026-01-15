@@ -10,7 +10,6 @@ This project demonstrates full-stack CRUD (Create, Read, Update, Delete) functio
 **Frontend:** ReactJS  
 **Backend:** NodeJS, ExpressJS  
 **Database:** MongoDB  
-**Tools:** Axios, Nodemon, CORS
 
 ---
 
